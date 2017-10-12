@@ -2,14 +2,14 @@
 
 A collection of useful vim colorscheme files
 
-## installation
+## Installation
 
-- recommend using a plugin manager/bundler such as:
+- Recommended: use a plugin manager/bundler such as:
   - [vim-plug](https://github.com/junegunn/vim-plug)
-  - [vim-pathogen](https://github.com/tpope/vim-pathogen) or 
+  - [vim-pathogen](https://github.com/tpope/vim-pathogen)
 
-- alternatively, cd to repo root and `cp -R colors ~/.vim/colors`
+- Alternatively, cd to repo root and `cp -R colors ~/.vim/colors`
 
-## usage
+## Usage
 
-- see `:help colorscheme`
+- See `:help colorscheme`
